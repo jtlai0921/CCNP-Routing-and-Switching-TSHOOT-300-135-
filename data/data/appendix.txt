@@ -1,0 +1,10 @@
+This DVD contains appendixes from CCIE Routing and Switching v5.0 Official Cert Guide. Click on the links below to open the associated PDF in a new window.
+<FONT COLOR = "#0000FF">
+<a href = "PDFs/CD_9781587205613_appc.pdf" target = "newWindow">Appendix C: Memory Tables</a>
+<a href = "pdfs/CD_9781587205613_appd.pdf" target = "newWindow">Appendix D: Memory Tables Answer Key</a>
+<a href = "pdfs/CD_9781587205613_gloss.pdf" target = "newWindow">Glossary</a>
+
+<a href = "pdfs/5613_Study_Planner.xlsx" target = "newWindow">Appendix E: Download a Study Planner (Excel file) </a>
+
+
+</FONT>

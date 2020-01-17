@@ -1,0 +1,14 @@
+This DVD contains sample chapters from the following CCNP titles. Click on the links below to open the associated PDF in a new window.
+<FONT FACE = "Arial,Helvetica,sans-serif" COLOR = "#000000" SIZE = "12"> <FONT COLOR = "#0000FF"><a href = "PDFs/04_9781587205590_ch04.pdf" target = "newWindow"><i>CCNP Routing and Switching ROUTE 300-101</i> (ISBN:9781587205613)</a></font> 
+Chapter 4 Fundamental EIGRP Concepts
+<FONT COLOR = "#0000FF"><a href = "pdfs/02_9781587205606_ch02.pdf" target = "newWindow"><i>CCNP Routing and Switching SWITCH 300-115</i> (ISBN:9781587205606)</a></font> 
+Chapter 2 Switch Operation
+<FONT COLOR = "#0000FF"><a href = "pdfs/04_9781587144318_P1_ch02.pdf" target = "newWindow"><i>CCNP R&S v2.0 Exam Practice Pack</i> (ISBN:9781587144318)</a></font> 
+Chapter 2 IPv6 Overview
+To find out more about these and other CCNP resources, please visit <FONT FACE = "Arial,Helvetica,sans-serif" COLOR = "#000000" SIZE = "12"> <FONT COLOR = "#0000FF"> <a href = "http://www.ciscopress.com/ccnp"> www.ciscopress.com/ccnp</a> </font>.
+
+
+
+
+
+</FONT>

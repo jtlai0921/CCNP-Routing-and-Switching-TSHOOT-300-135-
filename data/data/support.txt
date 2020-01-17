@@ -1,0 +1,35 @@
+<html><body><FONT FACE = "Arial,Helvetica,sans-serif" COLOR = "#000000" SIZE = "12"><b>Accessing your free practice exam:</b>
+- Install the Pearson IT Certification Practice Test from the CD-ROM menu.
+- The first time you run the software, a wizard will help you create the required Pearson IT Certification account. If you already have an account on <b>PearsonITCertification.com</b>, <b>CiscoPress.com</b>, or <b>InformIT.com</b>, you can use those log in credentials instead of having to create a new account.
+- After you create an account and log in, you will be able to use the Activation Wizard to activate and download the free practice exam.
+
+<b>Using the Activation Wizard:</b>
+- Select the <strong>Activate</strong> button from the <b>My Products</b> or <b>Tools</b> tab.
+- Enter your activation key.
+- Your exam will be activated and downloaded.
+
+<b>Book Registration:</b>
+To register your book, so that we can notify you automatically about product updates and new product offerings, please visit: <FONT COLOR = "#0000FF"><a href="http://www.ciscopress.com/register" target="newWindow">www.ciscopress.com/register</a></FONT>.
+You can find information, ask questions, and read about promotions, new product offerings, and more at: <FONT COLOR = "#0000FF"><a href="http://www.ciscopress.com" target="newWindow">www.ciscopress.com</a></FONT>.
+
+<b>Book Updates:</b>
+To find out if there are any updates on the product you have purchased, visit the book page on our Web site at: <FONT COLOR = "#0000FF"><a href="http://www.ciscopress.com/title/9781587205613" target="newWindow">www.ciscopress.com/title/9781587205613</a></FONT>.
+
+<b>Book Support:</b>
+Sometimes, you will need help. We are here for you; however, we can assist only with information in exams, problems with the software, things that might be missing, and the like. We are not authorized to assist with computer malfunction, system errors, or third-party applications.
+If you need help or are unsure where to go for help, you can contact us through our website at <FONT COLOR = "#0000FF"><a href="http://www.ciscopress.com/about/contact_us/" target="newWindow">http://www.ciscopress.com/about/contact_us/</a></FONT>. Select <b>Pearson Cert Practice Test</b> in the <b>Select a Topic</b> drop-down menu. You will need to enter the product title and ISBN for which you are seeking assistance in addition to your contact information and as much detail as you can provide about the problems you are experiencing, including the operating system you are running. You should get a response within 24-48 hours.
+You will need to provide the following information:
+&nbsp;&nbsp;&nbsp;&nbsp;1) Full Title of the product (<FONT COLOR = "#FF0000">CCNP Routing and Switching TSHOOT 300-135 Official Cert Guide</FONT>)
+&nbsp;&nbsp;&nbsp;&nbsp;2) The ISBN of the product (<FONT COLOR = "#FF0000">9781587205613</FONT>)
+&nbsp;&nbsp;&nbsp;&nbsp;3) Your Name
+&nbsp;&nbsp;&nbsp;&nbsp;4) Your E-Mail Address
+&nbsp;&nbsp;&nbsp;&nbsp;5) Your Problem or Question
+&nbsp;&nbsp;&nbsp;&nbsp;6) System Information
+If you receive damaged or defective software, please call our customer service department at 1-800-858-7674.
+You can also write us:
+&nbsp;&nbsp;&nbsp;&nbsp;Pearson Technology Group
+&nbsp;&nbsp;&nbsp;&nbsp;800 East 96th Street, Third Floor
+&nbsp;&nbsp;&nbsp;&nbsp;Indianapolis, IN 46240
+</FONT>
+</body>
+</html>
